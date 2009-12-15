@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "progressbar"
-  s.version = "1.0.0"
+  s.version = "1.0.1"
   s.author = ["Satoru Takabayashi", "Sorin Ionescu"]
   s.date = "2009-12-12"
   s.description = "Text-based progress bar for console scripts."
